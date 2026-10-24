@@ -1,2 +1,2 @@
 # crDroid-json
-Crdroid 12.2 json arm64
+Crdroid 12.12 json arm64
